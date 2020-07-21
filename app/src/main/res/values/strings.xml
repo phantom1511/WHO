@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WHO</string>
+    <string name="string_number">number</string>
+    <string name="string_text">text</string>
+    <string name="string_amount">AMOUNT</string>
+    <string name="string_result">RESULT</string>
+</resources>
